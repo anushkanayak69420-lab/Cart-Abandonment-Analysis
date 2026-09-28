@@ -7,8 +7,9 @@
 **Recommendation:** Show the shipping cost on the cart page, before checkout starts.
 
 ## Live links
-- Interactive dashboard (web): PASTE_GITHUB_PAGES_LINK_HERE
-- Power BI report: PASTE_POWER_BI_LINK_HERE
+- Repo: github.com/anushkanayak69420-lab/Cart-Abandonment-Analysis
+Live dashboard: https://anushkanayak69420-lab.github.io/Cart-Abandonment-Analysis/
+- 
 
 ## What's in this repo
 | File | What it is |
