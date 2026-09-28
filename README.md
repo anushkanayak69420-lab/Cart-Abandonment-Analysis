@@ -16,7 +16,7 @@
 | `cart_abandonment_queries.sql` | 5 SQL queries that answer the project questions (funnel, abandonment rate, shipping-fee comparison, revenue lost, device check) |
 | `generate_data.py` | Python script that builds 18,000 simulated checkout sessions |
 | `checkout_sessions.csv` | The dataset it produces |
-| `Cart_Abandonment_Simple.xlsx` | Excel workbook: funnel, shipping-fee comparison (with pie chart), device cut. All live formulas |
+| `Cart_Abandonment_Analysis.xlsx` | Excel workbook: funnel, shipping-fee comparison (with pie chart), device cut. All live formulas |
 | `index.html` | Interactive dashboard (filter by device) |
 | `PowerBI_Build_Guide.md` | How the Power BI version is built |
 
